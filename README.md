@@ -1,4 +1,5 @@
 ## Bangla_E2E_ASR
+<img src="image/keras.png" width="10%">
 
 This is an Eng-To-End Bangla speech recognition system.
 
