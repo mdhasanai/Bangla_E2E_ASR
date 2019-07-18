@@ -4,7 +4,7 @@ This repository contain code and instructions to the training deepspeech2 model 
 
 ### Highlights
 
-- Implemented the model based on <a href="https://arxiv.org/abs/1512.02595">SDeep Speech 2: End-to-End Speech Recognition in English and Mandarin<a/>
+- Implemented the model based on <a href="https://arxiv.org/abs/1512.02595">Deep Speech 2: End-to-End Speech Recognition in English and Mandarin<a/>
   
 - The code uses Spectrogram for feature extractor
 
